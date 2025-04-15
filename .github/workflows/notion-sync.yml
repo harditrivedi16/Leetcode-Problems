@@ -16,7 +16,7 @@ jobs:
       - name: Sync from Notion
         uses: victornpb/notion-jam@v0.0.10
         with:
-          NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
+          NOTION_SECRET: ${{ secrets.GITHUB_TEST_2  }}
           NOTION_DATABASE: https://www.notion.so/1317e332de1081dca37fe10f1dae11bd?v=1317e332de1081169e81000cf4ae8475&pvs=4
           FILTER_PROP: Commit to GitHub
           FILTER_VALUES: Yes
