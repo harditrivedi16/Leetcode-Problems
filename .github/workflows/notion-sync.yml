@@ -1,0 +1,35 @@
+name: Notion Sync
+
+on:
+  schedule:
+    - cron: "45 4 * * *" # Runs daily at 11:45 PM EST
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Sync from Notion
+        uses: victornpb/notion-jam@v0.0.10
+        with:
+          NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
+          NOTION_DATABASE: https://www.notion.so/1317e332de1081dca37fe10f1dae11bd?v=1317e332de1081169e81000cf4ae8475&pvs=4
+          FILTER_PROP: Commit to GitHub
+          FILTER_VALUES: Yes
+          CONVERT_PROP_CASE: snake
+          ARTICLE_PATH: content/posts/{title}/README.md
+          ASSETS_PATH: ./
+          PARALLEL_PAGES: 25
+          PARALLEL_DOWNLOADS_PER_PAGE: 3
+          DOWNLOAD_IMAGE_TIMEOUT: 30
+          SKIP_DOWNLOADED_IMAGES: true
+          DOWNLOAD_FRONTMATTER_IMAGES: true
+      
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Commit synced from Notion
