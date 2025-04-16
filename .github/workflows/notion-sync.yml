@@ -2,7 +2,7 @@ name: Notion Sync
 
 on:
   schedule:
-    - cron: "45 4 * * *" # Runs daily at 11:45 PM EST
+    - cron: "0 5 * * * " # Runs daily at 11:45 PM EST
   push:
     branches: [master, main]
   workflow_dispatch:
