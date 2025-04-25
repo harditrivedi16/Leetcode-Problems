@@ -2,7 +2,7 @@
 id: 14d7e332-de10-8040-89b6-f7d22902d0da
 title: 'Add two numbers '
 created_time: 2024-11-29T17:57:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -12,6 +12,7 @@ leetcode_problem_list:
 problem_link: https://leetcode.com/problems/add-two-numbers/
 my_confidence_level: Meduim
 number: 36
+amazon_prep: 'No'
 last_solved: 2024-12-01T00:00:00.000Z
 concept_involved:
   - Linked List

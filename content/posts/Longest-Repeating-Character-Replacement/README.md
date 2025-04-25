@@ -2,7 +2,7 @@
 id: 1757e332-de10-801a-93d0-df38f3b3fb73
 title: Longest Repeating Character Replacement
 created_time: 2025-01-08T18:03:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -11,6 +11,7 @@ problem_link: >-
   https://leetcode.com/problems/longest-repeating-character-replacement/description/
 my_confidence_level: Meduim
 number: 45
+amazon_prep: 'No'
 last_solved: 2025-01-08T00:00:00.000Z
 concept_involved:
   - Sliding Window

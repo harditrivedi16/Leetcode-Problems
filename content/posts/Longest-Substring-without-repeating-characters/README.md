@@ -2,7 +2,7 @@
 id: 14f7e332-de10-8088-9855-cc0bbaef6e95
 title: Longest Substring without repeating characters
 created_time: 2024-12-01T18:11:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -12,6 +12,7 @@ leetcode_problem_list:
 problem_link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 my_confidence_level: Meduim
 number: 44
+amazon_prep: 'No'
 last_solved: 2025-01-08T00:00:00.000Z
 concept_involved:
   - Sliding Window

@@ -2,7 +2,7 @@
 id: 1757e332-de10-80cb-80b4-d04f5a64cef0
 title: Minimum Window Substring
 created_time: 2025-01-08T18:03:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -13,6 +13,7 @@ leetcode_problem_list:
 problem_link: https://leetcode.com/problems/minimum-window-substring/description/
 my_confidence_level: Meduim
 number: 47
+amazon_prep: 'No'
 last_solved: 2025-01-08T00:00:00.000Z
 concept_involved:
   - Sliding Window

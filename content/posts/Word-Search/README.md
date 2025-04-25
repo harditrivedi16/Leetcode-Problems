@@ -2,13 +2,14 @@
 id: 17e7e332-de10-803b-8dbc-d682c62ed03a
 title: Word Search
 created_time: 2025-01-17T02:42:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/word-search/
 my_confidence_level: Low
 number: 54
+amazon_prep: 'No'
 last_solved: 2025-01-17T00:00:00.000Z
 concept_involved:
   - DFS

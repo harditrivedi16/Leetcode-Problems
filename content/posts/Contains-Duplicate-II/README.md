@@ -2,13 +2,14 @@
 id: 1707e332-de10-807c-8cb8-fc46e5995599
 title: Contains Duplicate II
 created_time: 2025-01-03T19:05:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: Easy
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/contains-duplicate-ii/description/
 my_confidence_level: Meduim
 number: 42
+amazon_prep: 'No'
 last_solved: 2025-01-03T00:00:00.000Z
 concept_involved:
   - Sliding Window

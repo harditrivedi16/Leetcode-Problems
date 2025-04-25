@@ -2,7 +2,7 @@
 id: 1bb7e332-de10-802f-9f00-fe6adf50dcd7
 title: Count Good Nodes in Binary Tree
 created_time: 2025-03-19T13:52:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:50:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -10,6 +10,7 @@ leetcode_problem_list:
 problem_link: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 my_confidence_level: Meduim
 number: 64
+amazon_prep: 'No'
 last_solved: 2025-03-19T00:00:00.000Z
 concept_involved:
   - DFS

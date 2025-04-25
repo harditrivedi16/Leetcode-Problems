@@ -2,7 +2,7 @@
 id: 1907e332-de10-8081-a2df-fea6a6cbc0ee
 title: Check if One String Swap can make String Equal
 created_time: 2025-02-04T16:55:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: Easy
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
@@ -10,6 +10,7 @@ problem_link: >-
   https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/
 my_confidence_level: Meduim
 number: 60
+amazon_prep: 'No'
 last_solved: 2025-02-05T00:00:00.000Z
 concept_involved:
   - Strings

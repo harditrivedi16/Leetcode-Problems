@@ -2,7 +2,7 @@
 id: 1767e332-de10-804e-8376-e1140c38be5f
 title: Surrounded Regions
 created_time: 2025-01-09T01:16:00.000Z
-last_edited_time: 2025-04-23T23:43:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -10,6 +10,7 @@ leetcode_problem_list:
 problem_link: https://leetcode.com/problems/surrounded-regions/description/
 my_confidence_level: Meduim
 number: 51
+amazon_prep: 'No'
 last_solved: 2025-01-16T00:00:00.000Z
 concept_involved:
   - BFS

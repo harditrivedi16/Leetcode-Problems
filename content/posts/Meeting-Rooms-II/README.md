@@ -2,7 +2,7 @@
 id: 18e7e332-de10-8044-8cf9-dada86b71f87
 title: Meeting Rooms II
 created_time: 2025-02-02T19:12:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -15,6 +15,7 @@ leetcode_problem_list:
 problem_link: https://leetcode.com/problems/meeting-rooms-ii/
 my_confidence_level: Meduim
 number: 57
+amazon_prep: 'No'
 last_solved: 2025-02-02T00:00:00.000Z
 concept_involved:
   - Intervals

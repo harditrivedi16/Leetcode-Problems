@@ -2,7 +2,7 @@
 id: 1547e332-de10-8054-a4db-e89b3c3280e5
 title: Move Pieces to Obtain a String
 created_time: 2024-12-06T00:13:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
@@ -10,6 +10,7 @@ problem_link: >-
   https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/?envType=daily-question&envId=2024-12-05
 my_confidence_level: Low
 number: 39
+amazon_prep: 'No'
 last_solved: 2024-12-05T00:00:00.000Z
 concept_involved:
   - Strings

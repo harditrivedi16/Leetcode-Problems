@@ -2,7 +2,7 @@
 id: 1807e332-de10-80c2-9a9e-c676df68294b
 title: Minimum Interval to include each query
 created_time: 2025-01-19T18:07:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-04-24T16:49:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -11,6 +11,7 @@ problem_link: >-
   https://leetcode.com/problems/minimum-interval-to-include-each-query/description/
 my_confidence_level: Low
 number: 58
+amazon_prep: 'No'
 last_solved: 2025-02-02T00:00:00.000Z
 concept_involved:
   - Intervals

@@ -2,7 +2,7 @@
 id: 1bc7e332-de10-80ee-b426-f79d6abc4d0d
 title: Coin Change
 created_time: 2025-03-20T16:22:00.000Z
-last_edited_time: 2025-04-15T16:06:00.000Z
+last_edited_time: 2025-04-24T16:50:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
@@ -12,6 +12,7 @@ leetcode_problem_list:
 problem_link: https://leetcode.com/problems/coin-change/
 my_confidence_level: Meduim
 number: 66
+amazon_prep: 'No'
 last_solved: 2025-03-20T00:00:00.000Z
 concept_involved:
   - Dynamic Programming
