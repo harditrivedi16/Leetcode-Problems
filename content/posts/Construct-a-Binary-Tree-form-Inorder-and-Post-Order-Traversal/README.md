@@ -2,14 +2,14 @@
 id: 1df7e332-de10-8083-b7b3-e0121f53e94d
 title: Construct a Binary Tree form Inorder and Post Order Traversal
 created_time: 2025-04-24T21:51:00.000Z
-last_edited_time: 2025-04-25T04:44:00.000Z
+last_edited_time: 2025-04-27T19:30:00.000Z
 difficulty_level: 'Meduim '
 remarks: remember the sequence of in order, pre order and post order
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
-my_confidence_level: Meduim
+my_confidence_level: High
 number: 132
 amazon_prep: 'Yes'
 last_solved: 2025-04-24T00:00:00.000Z

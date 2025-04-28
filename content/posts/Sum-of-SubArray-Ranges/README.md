@@ -2,7 +2,7 @@
 id: 1e17e332-de10-80de-a6b6-eceb4d9e8919
 title: Sum of SubArray Ranges
 created_time: 2025-04-26T17:00:00.000Z
-last_edited_time: 2025-04-26T18:11:00.000Z
+last_edited_time: 2025-04-27T18:31:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
@@ -13,6 +13,7 @@ amazon_prep: 'Yes'
 last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:
   - Stack
+  - PrefixSum
 companies_asked: []
 problem_name: Sum of SubArray Ranges
 
@@ -25,6 +26,7 @@ class Solution:
         stack = []
         
         # Find the sum of all the minimum.
+        #Monotonically increasing stack 1 -> 2 -> 3 -> 4 top smallest element
         for right in range(n + 1):
             while stack and (right == n or nums[stack[-1]] >= nums[right]):
                 mid = stack.pop()

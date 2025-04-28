@@ -2,13 +2,13 @@
 id: 1df7e332-de10-80c2-b3c5-fe496d195785
 title: Construct a Binary Tree from InOrder and Pre Order traversal
 created_time: 2025-04-24T22:02:00.000Z
-last_edited_time: 2025-04-25T04:43:00.000Z
+last_edited_time: 2025-04-27T19:32:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
-my_confidence_level: Meduim
+my_confidence_level: High
 number: 134
 amazon_prep: 'Yes'
 last_solved: 2025-04-24T00:00:00.000Z
