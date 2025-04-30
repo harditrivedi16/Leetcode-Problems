@@ -2,13 +2,13 @@
 id: 1db7e332-de10-80b8-a343-efba32fe2c03
 title: Find Critical and Pseudo Critical Edges in a Minimum Spanning Tree
 created_time: 2025-04-20T16:03:00.000Z
-last_edited_time: 2025-04-24T16:50:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/find-cr...
 my_confidence_level: Low
-number: 97
+number: null
 amazon_prep: 'No'
 last_solved: 2025-04-20T00:00:00.000Z
 concept_involved:

@@ -2,13 +2,13 @@
 id: 1db7e332-de10-807e-ae7b-f00f9a885a5a
 title: Optimizing Water Distribution in a Village
 created_time: 2025-04-20T16:03:00.000Z
-last_edited_time: 2025-04-24T16:50:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/optimize-water-distribution-in-a-village/
 my_confidence_level: Meduim
-number: 96
+number: null
 amazon_prep: 'No'
 last_solved: 2025-04-20T00:00:00.000Z
 concept_involved:

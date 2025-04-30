@@ -2,12 +2,12 @@
 id: 1e17e332-de10-80e0-b2e8-cdcf7140c2fa
 title: Evaluate Reverse Polish Notation
 created_time: 2025-04-26T16:15:00.000Z
-last_edited_time: 2025-04-27T19:32:00.000Z
+last_edited_time: 2025-04-29T21:19:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: High
-number: 137
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:

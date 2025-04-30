@@ -2,12 +2,12 @@
 id: 1e27e332-de10-809f-9c38-f1a080163cba
 title: Remove Nth Node from end of list
 created_time: 2025-04-27T20:23:00.000Z
-last_edited_time: 2025-04-27T20:24:00.000Z
+last_edited_time: 2025-04-29T21:16:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: High
-number: 163
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:

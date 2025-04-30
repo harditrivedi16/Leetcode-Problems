@@ -2,7 +2,7 @@
 id: 1df7e332-de10-809e-a894-cccf74a4806c
 title: Design Tic-Tac -Toe
 created_time: 2025-04-24T16:55:00.000Z
-last_edited_time: 2025-04-24T16:58:00.000Z
+last_edited_time: 2025-04-29T21:17:00.000Z
 difficulty_level: 'Meduim '
 remarks: No need to make the whole board just keep track of count
 commit_to_git_hub: 'Yes'
@@ -10,7 +10,7 @@ leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/design-tic-tac-toe/?envType=problem-list-v2&envId=7p5x763
 my_confidence_level: High
-number: 129
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:

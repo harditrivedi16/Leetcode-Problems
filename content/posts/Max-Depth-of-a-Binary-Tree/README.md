@@ -2,13 +2,14 @@
 id: 1da7e332-de10-8073-a2db-ddb566406852
 title: Max Depth of a Binary Tree
 created_time: 2025-04-19T19:31:00.000Z
-last_edited_time: 2025-04-20T01:30:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: Easy
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 my_confidence_level: High
-number: 86
+number: null
+amazon_prep: 'No'
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
   - Binary Trees

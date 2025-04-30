@@ -2,14 +2,15 @@
 id: 1da7e332-de10-8092-b36a-de501da9ee57
 title: Number of Connected Components in an Undirected Graph
 created_time: 2025-04-19T19:29:00.000Z
-last_edited_time: 2025-04-20T14:43:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 my_confidence_level: Low
-number: 84
+number: null
+amazon_prep: 'No'
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
   - Graphs

@@ -2,15 +2,16 @@
 id: 1e27e332-de10-8050-9514-c6c5ac2658cb
 title: Find Minimum in a rotated sorted array
 created_time: 2025-04-27T16:33:00.000Z
-last_edited_time: 2025-04-27T16:39:00.000Z
+last_edited_time: 2025-04-29T21:15:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 146
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
-concept_involved: []
+concept_involved:
+  - Binary Search
 companies_asked: []
 problem_name: Find Minimum in a rotated sorted array
 

@@ -2,7 +2,7 @@
 id: 1df7e332-de10-8077-b980-e73f34cf8c7d
 title: Make Array zero by substracting equal amounts
 created_time: 2025-04-24T21:25:00.000Z
-last_edited_time: 2025-04-24T21:36:00.000Z
+last_edited_time: 2025-04-29T21:17:00.000Z
 difficulty_level: Easy
 remarks: no of unique elements = no of operations
 commit_to_git_hub: 'Yes'
@@ -10,7 +10,7 @@ leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/
 my_confidence_level: High
-number: 131
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:

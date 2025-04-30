@@ -2,15 +2,16 @@
 id: 1e27e332-de10-80eb-8f58-f1d44203798e
 title: Peak Element
 created_time: 2025-04-27T17:29:00.000Z
-last_edited_time: 2025-04-27T17:33:00.000Z
+last_edited_time: 2025-04-29T21:16:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 153
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
-concept_involved: []
+concept_involved:
+  - Binary Search
 companies_asked: []
 problem_name: Peak Element
 

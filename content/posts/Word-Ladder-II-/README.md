@@ -2,13 +2,14 @@
 id: 1da7e332-de10-80a3-ab85-d3836474efb9
 title: 'Word Ladder II '
 created_time: 2025-04-19T17:20:00.000Z
-last_edited_time: 2025-04-19T19:30:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/word-ladder-ii/description/
 my_confidence_level: Low
-number: 82
+number: null
+amazon_prep: 'No'
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
   - Graphs

@@ -2,13 +2,13 @@
 id: 1e17e332-de10-80de-a6b6-eceb4d9e8919
 title: Sum of SubArray Ranges
 created_time: 2025-04-26T17:00:00.000Z
-last_edited_time: 2025-04-27T18:31:00.000Z
+last_edited_time: 2025-04-29T21:16:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
-number: 139
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:

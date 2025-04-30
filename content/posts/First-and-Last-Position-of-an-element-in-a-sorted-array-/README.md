@@ -2,12 +2,12 @@
 id: 1e27e332-de10-80d1-8a6c-d59762bae5c4
 title: First and Last Position of an element in a sorted array.
 created_time: 2025-04-27T16:24:00.000Z
-last_edited_time: 2025-04-27T16:25:00.000Z
+last_edited_time: 2025-04-29T21:15:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: High
-number: 144
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:

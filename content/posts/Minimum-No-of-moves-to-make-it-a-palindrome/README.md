@@ -2,12 +2,12 @@
 id: 1e27e332-de10-8001-bd4e-de27a516bf8a
 title: Minimum No of moves to make it a palindrome
 created_time: 2025-04-27T18:55:00.000Z
-last_edited_time: 2025-04-27T19:14:00.000Z
+last_edited_time: 2025-04-29T21:17:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
-number: 158
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:

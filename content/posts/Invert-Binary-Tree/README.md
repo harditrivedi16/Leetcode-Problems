@@ -2,13 +2,14 @@
 id: 1da7e332-de10-80be-8791-e18bac616e3e
 title: Invert Binary Tree
 created_time: 2025-04-19T19:31:00.000Z
-last_edited_time: 2025-04-20T01:54:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: Easy
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/invert-binary-tree/
 my_confidence_level: High
-number: 89
+number: null
+amazon_prep: 'No'
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
   - Binary Trees

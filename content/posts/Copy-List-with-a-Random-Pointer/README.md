@@ -2,12 +2,12 @@
 id: 1e27e332-de10-80bf-ac06-d345b85fffa6
 title: Copy List with a Random Pointer
 created_time: 2025-04-27T20:35:00.000Z
-last_edited_time: 2025-04-27T20:36:00.000Z
+last_edited_time: 2025-04-29T21:16:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 164
+number: null
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
