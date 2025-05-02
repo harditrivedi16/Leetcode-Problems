@@ -2,13 +2,13 @@
 id: 1e27e332-de10-8026-ba8d-f28e8049596d
 title: Find kth Smallest Pair Distance
 created_time: 2025-04-27T17:04:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:30:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
+number: 12
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:

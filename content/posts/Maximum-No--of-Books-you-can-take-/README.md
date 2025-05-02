@@ -2,12 +2,12 @@
 id: 1e17e332-de10-80b2-abb8-fba18f19b65b
 title: 'Maximum No. of Books you can take '
 created_time: 2025-04-26T16:24:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:40:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
+number: 27
 amazon_prep: 'Yes'
 last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:

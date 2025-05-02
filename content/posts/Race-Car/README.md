@@ -2,7 +2,7 @@
 id: 1df7e332-de10-80f3-b94c-e72b0751d140
 title: Race Car
 created_time: 2025-04-24T16:24:00.000Z
-last_edited_time: 2025-04-29T21:17:00.000Z
+last_edited_time: 2025-05-01T15:22:00.000Z
 difficulty_level: Hard
 remarks: Complicated BFS Traversal
 commit_to_git_hub: 'Yes'
@@ -10,7 +10,7 @@ leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/race-car/description/?envType=problem-list-v2&envId=7p5x763
 my_confidence_level: Meduim
-number: null
+number: 66
 amazon_prep: 'Yes'
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:

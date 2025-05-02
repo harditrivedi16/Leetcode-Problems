@@ -2,12 +2,12 @@
 id: 1e47e332-de10-808c-8ba0-fadcb99e997b
 title: Max length of subarray with positive product
 created_time: 2025-04-29T15:47:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:41:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
+number: 29
 amazon_prep: 'Yes'
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:

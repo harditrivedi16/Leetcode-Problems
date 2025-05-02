@@ -2,12 +2,12 @@
 id: 1e27e332-de10-80ec-9969-e84bf9bf274b
 title: Koko eating bananas
 created_time: 2025-04-27T16:25:00.000Z
-last_edited_time: 2025-04-29T21:15:00.000Z
+last_edited_time: 2025-05-01T14:29:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
+number: 7
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:

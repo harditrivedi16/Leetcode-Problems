@@ -2,12 +2,12 @@
 id: 1e27e332-de10-80bf-9d52-d030ea624998
 title: Find Minimum in a rotated sorted array - II
 created_time: 2025-04-27T16:39:00.000Z
-last_edited_time: 2025-04-29T21:15:00.000Z
+last_edited_time: 2025-05-01T14:29:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
+number: 9
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:

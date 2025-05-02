@@ -2,13 +2,13 @@
 id: 1e47e332-de10-803e-991f-e1763f7f327d
 title: Compound word
 created_time: 2025-04-29T17:31:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T15:21:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: not on leetcode
 my_confidence_level: Low
-number: null
+number: 51
 amazon_prep: 'Yes'
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:

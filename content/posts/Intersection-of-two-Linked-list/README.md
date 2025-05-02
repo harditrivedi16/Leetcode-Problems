@@ -2,13 +2,13 @@
 id: 1dd7e332-de10-8099-b27a-d5239fec291d
 title: Intersection of two Linked list
 created_time: 2025-04-22T18:13:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: Easy
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/linked-list-cycle-ii/
 my_confidence_level: Meduim
-number: null
+number: 43
 amazon_prep: 'Yes'
 last_solved: 2025-04-22T00:00:00.000Z
 concept_involved:

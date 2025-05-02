@@ -2,12 +2,12 @@
 id: 1e27e332-de10-806c-842e-c67c535e71f8
 title: Find the Duplicate Number
 created_time: 2025-04-27T20:49:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:48:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
+number: 48
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
@@ -53,5 +53,3 @@ class Solution:
 ### Space Complexity:
 
 *   **O(1):** We only use two extra pointers, so the space complexity is constant, i.e., O(1).
-
-Let me know when you're ready for the next problem!

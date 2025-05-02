@@ -2,13 +2,13 @@
 id: 1db7e332-de10-8051-8dbb-f6896f5553eb
 title: Symmetric Tree
 created_time: 2025-04-20T01:50:00.000Z
-last_edited_time: 2025-04-29T21:18:00.000Z
+last_edited_time: 2025-05-01T15:49:00.000Z
 difficulty_level: Easy
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/symmetric-tree/
 my_confidence_level: Meduim
-number: null
+number: 104
 amazon_prep: 'No'
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:

@@ -2,13 +2,13 @@
 id: 1dd7e332-de10-80d9-acbf-f6dcceccc6b1
 title: Merge k sorted list
 created_time: 2025-04-22T18:15:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/merge-k-sorted-lists/
 my_confidence_level: Meduim
-number: null
+number: 44
 amazon_prep: 'Yes'
 last_solved: 2025-04-22T00:00:00.000Z
 concept_involved:

@@ -2,7 +2,7 @@
 id: 1df7e332-de10-800b-b55a-fee3ba3b0ded
 title: 'Construct a Binary Tree from Pre Order and Post Order Traversal '
 created_time: 2025-04-24T21:54:00.000Z
-last_edited_time: 2025-04-29T21:18:00.000Z
+last_edited_time: 2025-05-01T15:49:00.000Z
 difficulty_level: 'Meduim '
 remarks: >-
   remember order of post, pre and in order, and to make a helper function that
@@ -14,7 +14,7 @@ leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/
 my_confidence_level: Meduim
-number: null
+number: 106
 amazon_prep: 'Yes'
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:

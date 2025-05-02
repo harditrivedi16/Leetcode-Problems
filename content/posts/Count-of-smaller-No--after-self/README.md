@@ -2,12 +2,12 @@
 id: 1e27e332-de10-80d0-b88e-fe7dc473c072
 title: Count of smaller No. after self
 created_time: 2025-04-27T16:54:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:30:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
+number: 11
 amazon_prep: 'Yes'
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:

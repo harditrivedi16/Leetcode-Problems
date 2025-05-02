@@ -2,13 +2,13 @@
 id: 1dd7e332-de10-8027-9007-fedf17e7b5a6
 title: Reverse Nodes in K Groups.
 created_time: 2025-04-22T18:15:00.000Z
-last_edited_time: 2025-04-29T21:16:00.000Z
+last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: Hard
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/reverse-nodes-in-k-group/description/
 my_confidence_level: Meduim
-number: null
+number: 45
 amazon_prep: 'Yes'
 last_solved: 2025-04-22T00:00:00.000Z
 concept_involved:

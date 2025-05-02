@@ -2,13 +2,13 @@
 id: 1da7e332-de10-806c-b893-d7999276c594
 title: Diameter of Binary Tree
 created_time: 2025-04-19T19:31:00.000Z
-last_edited_time: 2025-04-29T21:18:00.000Z
+last_edited_time: 2025-05-01T15:49:00.000Z
 difficulty_level: Easy
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/diameter-of-binary-tree/
 my_confidence_level: Meduim
-number: null
+number: 102
 amazon_prep: 'No'
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
