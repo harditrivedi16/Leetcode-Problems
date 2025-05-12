@@ -75,6 +75,8 @@ Time and Space Complexity:
 
 *   **`nextSmallerToRight(self)`**:
 
+    This method finds the index of the nearest smaller element to the right of each bar (again, same logic as before).
+
 *   **`largestRectangleArea(self)`**:
 
     This method calculates and returns the maximum area of the rectangle that can be formed in the histogram using the previously defined methods for NSL and NSR.
