@@ -9,7 +9,7 @@ leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/employee-free-time/description/
 my_confidence_level: Meduim
 number: 91
-amazon_prep: 'Yes'
+june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Intervals

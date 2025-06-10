@@ -9,7 +9,7 @@ leetcode_problem_list: []
 problem_link: https://neetcode.io/problems/min-cost...
 my_confidence_level: Meduim
 number: null
-amazon_prep: 'No'
+june_interviews_prep: null
 last_solved: 2025-04-20T00:00:00.000Z
 concept_involved:
   - Graphs

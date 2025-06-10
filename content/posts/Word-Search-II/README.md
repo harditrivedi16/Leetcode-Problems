@@ -8,7 +8,7 @@ leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
 number: null
-amazon_prep: 'Yes'
+june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Trie

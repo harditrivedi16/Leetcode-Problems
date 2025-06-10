@@ -9,7 +9,7 @@ leetcode_problem_list: []
 problem_link: not on leetcode
 my_confidence_level: Low
 number: 51
-amazon_prep: 'Yes'
+june_interviews_prep: null
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:
   - HashTables

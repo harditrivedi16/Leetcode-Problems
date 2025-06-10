@@ -8,7 +8,7 @@ leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/
 number: null
-amazon_prep: 'No'
+june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Dynamic Programming

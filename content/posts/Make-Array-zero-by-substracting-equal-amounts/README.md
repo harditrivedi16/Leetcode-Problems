@@ -11,7 +11,7 @@ problem_link: >-
   https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/
 my_confidence_level: High
 number: 69
-amazon_prep: 'Yes'
+june_interviews_prep: null
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:
   - Arrays

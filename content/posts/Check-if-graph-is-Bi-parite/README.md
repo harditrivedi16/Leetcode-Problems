@@ -7,7 +7,7 @@ commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 number: null
-amazon_prep: 'No'
+june_interviews_prep: null
 last_solved: 2025-04-20T00:00:00.000Z
 concept_involved:
   - Graphs

@@ -7,7 +7,7 @@ commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/longest-palindromic-substring/description/
 number: null
-amazon_prep: 'No'
+june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Dynamic Programming

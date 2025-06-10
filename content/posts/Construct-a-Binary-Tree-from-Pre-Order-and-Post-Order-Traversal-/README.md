@@ -15,7 +15,7 @@ problem_link: >-
   https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/
 my_confidence_level: Meduim
 number: 106
-amazon_prep: 'Yes'
+june_interviews_prep: null
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:
   - Binary Trees

@@ -8,7 +8,7 @@ commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/linked-list-cycle-ii/
 number: 42
-amazon_prep: 'Yes'
+june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Linked List

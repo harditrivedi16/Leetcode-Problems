@@ -9,7 +9,7 @@ leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/linked-list-cycle-ii/
 my_confidence_level: Meduim
 number: 43
-amazon_prep: 'Yes'
+june_interviews_prep: null
 last_solved: 2025-04-22T00:00:00.000Z
 concept_involved:
   - Linked List

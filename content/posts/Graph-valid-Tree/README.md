@@ -9,7 +9,7 @@ leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/graph-valid-tree/description/
 my_confidence_level: Low
 number: null
-amazon_prep: 'No'
+june_interviews_prep: null
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
   - Graphs
