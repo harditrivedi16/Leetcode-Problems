@@ -2,7 +2,7 @@
 id: 2197e332-de10-806c-9f39-d2e9ea43f8e2
 title: Partition labels
 created_time: 2025-06-21T19:46:00.000Z
-last_edited_time: 2025-06-21T20:15:00.000Z
+last_edited_time: 2025-06-22T14:31:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
@@ -16,6 +16,14 @@ companies_asked: []
 problem_name: Partition labels
 
 ---
+
+### 🧩 **Partition Labels**
+
+**Problem Statement:**
+
+Given a string `s`, partition it into as many parts as possible such that **each letter appears in at most one part**.
+
+**Return:** A list of the lengths of these partitions.
 
 ```python
 class Solution:

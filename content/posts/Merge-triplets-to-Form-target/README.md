@@ -2,7 +2,7 @@
 id: 2197e332-de10-801a-9b43-e45b4c8ef5a4
 title: Merge triplets to Form target
 created_time: 2025-06-21T19:46:00.000Z
-last_edited_time: 2025-06-21T20:05:00.000Z
+last_edited_time: 2025-06-22T14:30:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
@@ -16,6 +16,14 @@ companies_asked: []
 problem_name: Merge triplets to Form target
 
 ---
+
+Given a list of triplets (each with 3 integers), and a target triplet `[x, y, z]`, determine if **some combination** of these triplets can be merged to form the target — where:
+
+*   You can pick triplets with values ≤ target in each index.
+
+*   A merged triplet takes the **maximum** value at each index across chosen triplets.
+
+**Return:** `True` if it's possible to form the exact target, else `False`.
 
 ```python
 class Solution:

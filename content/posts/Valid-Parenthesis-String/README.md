@@ -2,7 +2,7 @@
 id: 2197e332-de10-80ae-8f7e-f5e04de53860
 title: Valid Parenthesis String
 created_time: 2025-06-21T19:47:00.000Z
-last_edited_time: 2025-06-21T20:25:00.000Z
+last_edited_time: 2025-06-22T14:32:00.000Z
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
@@ -16,6 +16,22 @@ companies_asked: []
 problem_name: Valid Parenthesis String
 
 ---
+
+**Problem Statement:**
+
+Given a string `s` containing `'('`, `')'`, and `'*'` — where `'*'` can represent `'('`, `')'`, or an empty string — determine if the string is **valid**.
+
+A valid string has balanced parentheses considering the flexibility of `'*'`.
+
+**Example:**
+
+```python
+python
+CopyEdit
+s = "(*))"
+✅ Output: True
+
+```
 
 ```python
 class Solution:

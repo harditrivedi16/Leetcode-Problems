@@ -2,7 +2,7 @@
 id: 2177e332-de10-80a5-aa8d-f1890be41b5b
 title: 'Jump Game II '
 created_time: 2025-06-19T16:05:00.000Z
-last_edited_time: 2025-06-19T16:05:00.000Z
+last_edited_time: 2025-06-22T14:26:00.000Z
 difficulty_level: 'Meduim '
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
@@ -16,6 +16,12 @@ companies_asked: []
 problem_name: 'Jump Game II '
 
 ---
+
+**Problem Statement:**
+
+Given the same setup (array `nums`, where `nums[i]` = max jump length from index `i`), **find the minimum number of jumps** needed to reach the last index.
+
+**Return:** The **minimum number of jumps** required.
 
 ```java
 class Solution(object):
