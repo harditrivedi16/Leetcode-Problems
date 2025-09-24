@@ -3,12 +3,11 @@ id: 1e27e332-de10-8046-a619-ed30b092b3b3
 title: Search Suggestions system
 created_time: 2025-04-27T17:44:00.000Z
 last_edited_time: 2025-05-01T14:31:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 17
-june_interviews_prep: null
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
   - Binary Search

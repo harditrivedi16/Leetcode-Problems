@@ -3,12 +3,11 @@ id: 1e47e332-de10-8014-9027-e2fb279b92fb
 title: All Nodes Distance K in a Binary Tree
 created_time: 2025-04-29T16:19:00.000Z
 last_edited_time: 2025-04-29T21:18:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:
   - Binary Trees

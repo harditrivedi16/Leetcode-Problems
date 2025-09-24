@@ -4,12 +4,11 @@ title: 'Linked List Cycle I '
 created_time: 2025-04-22T16:59:00.000Z
 last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: Easy
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/linked-list-cycle/
 my_confidence_level: High
-number: 41
-june_interviews_prep: null
 last_solved: 2025-04-22T00:00:00.000Z
 concept_involved:
   - Linked List

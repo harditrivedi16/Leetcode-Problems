@@ -3,12 +3,11 @@ id: 1e47e332-de10-80bc-96d3-f98b5aa4a120
 title: 'N - Queens '
 created_time: 2025-04-29T18:56:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:
   - BackTracking

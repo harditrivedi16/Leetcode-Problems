@@ -3,12 +3,11 @@ id: 1e37e332-de10-80e7-b24b-f80d55acf25b
 title: Convert a sorted list to BST
 created_time: 2025-04-28T15:01:00.000Z
 last_edited_time: 2025-05-01T14:48:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 49
-june_interviews_prep: null
 last_solved: 2025-04-28T00:00:00.000Z
 concept_involved:
   - Linked List

@@ -3,12 +3,11 @@ id: 1e17e332-de10-801c-8bfa-c1bec591cb1c
 title: Generate Parenthesis
 created_time: 2025-04-26T17:13:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:
   - BackTracking

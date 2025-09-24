@@ -4,12 +4,11 @@ title: Car Fleet
 created_time: 2025-04-25T13:51:00.000Z
 last_edited_time: 2025-05-01T14:42:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
-number: 32
-june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Stack

@@ -3,12 +3,11 @@ id: 1e37e332-de10-80d7-966c-ebaaeddbbe95
 title: Delete a Node from BST
 created_time: 2025-04-28T14:52:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-28T00:00:00.000Z
 concept_involved:
   - BST

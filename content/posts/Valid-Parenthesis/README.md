@@ -3,12 +3,11 @@ id: 1e17e332-de10-80db-bf52-c4aa5f96daeb
 title: Valid Parenthesis
 created_time: 2025-04-26T17:08:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: High
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:
   - Stacks

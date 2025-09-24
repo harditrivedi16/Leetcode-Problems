@@ -5,13 +5,12 @@ created_time: 2025-04-24T21:25:00.000Z
 last_edited_time: 2025-05-01T15:22:00.000Z
 difficulty_level: Easy
 remarks: no of unique elements = no of operations
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/
 my_confidence_level: High
-number: 69
-june_interviews_prep: null
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:
   - Arrays

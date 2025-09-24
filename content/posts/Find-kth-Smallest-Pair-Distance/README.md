@@ -4,12 +4,11 @@ title: Find kth Smallest Pair Distance
 created_time: 2025-04-27T17:04:00.000Z
 last_edited_time: 2025-05-01T14:30:00.000Z
 difficulty_level: Hard
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 12
-june_interviews_prep: null
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
   - Binary Search

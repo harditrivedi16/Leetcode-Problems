@@ -3,12 +3,11 @@ id: 1e47e332-de10-809c-92e5-d0c9b431f411
 title: Lowest Common Ancestor of a Binary Search Tree
 created_time: 2025-04-29T16:24:00.000Z
 last_edited_time: 2025-04-29T21:18:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:
   - Binary Trees

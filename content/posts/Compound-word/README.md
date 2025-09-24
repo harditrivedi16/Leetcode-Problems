@@ -4,12 +4,11 @@ title: Compound word
 created_time: 2025-04-29T17:31:00.000Z
 last_edited_time: 2025-05-01T15:21:00.000Z
 difficulty_level: Hard
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: not on leetcode
 my_confidence_level: Low
-number: 51
-june_interviews_prep: null
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:
   - HashTables

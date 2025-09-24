@@ -3,12 +3,11 @@ id: 1e17e332-de10-8028-a3a9-f012a63889a1
 title: Largest Rectangle in a Histogram
 created_time: 2025-04-26T16:19:00.000Z
 last_edited_time: 2025-05-01T14:42:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: High
-number: 33
-june_interviews_prep: null
 last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:
   - Stack

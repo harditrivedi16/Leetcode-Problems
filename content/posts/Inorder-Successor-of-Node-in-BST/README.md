@@ -3,12 +3,11 @@ id: 1e27e332-de10-804f-8114-fc5d25103066
 title: Inorder Successor of Node in BST
 created_time: 2025-04-27T20:37:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-28T00:00:00.000Z
 concept_involved:
   - BST

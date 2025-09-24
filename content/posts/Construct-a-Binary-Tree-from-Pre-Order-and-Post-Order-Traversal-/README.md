@@ -9,13 +9,12 @@ remarks: >-
   intakes, pre and post order tree’s first and and last element. basically we
   have to find the root, where left sub tree starts, where right sub tree starts
   etc. 
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/
 my_confidence_level: Meduim
-number: 106
-june_interviews_prep: null
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:
   - Binary Trees

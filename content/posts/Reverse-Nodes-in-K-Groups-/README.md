@@ -4,12 +4,11 @@ title: Reverse Nodes in K Groups.
 created_time: 2025-04-22T18:15:00.000Z
 last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: Hard
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/reverse-nodes-in-k-group/description/
 my_confidence_level: Meduim
-number: 45
-june_interviews_prep: null
 last_solved: 2025-04-22T00:00:00.000Z
 concept_involved:
   - Linked List

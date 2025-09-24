@@ -3,12 +3,11 @@ id: 1e27e332-de10-802b-82c8-ca06e6c0b886
 title: Design Add & Search Word Data Structure
 created_time: 2025-04-27T19:45:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
   - Trie

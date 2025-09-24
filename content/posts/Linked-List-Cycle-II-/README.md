@@ -4,11 +4,10 @@ title: 'Linked List Cycle II '
 created_time: 2025-04-22T18:13:00.000Z
 last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/linked-list-cycle-ii/
-number: 42
-june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Linked List

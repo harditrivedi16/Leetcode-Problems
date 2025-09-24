@@ -3,12 +3,11 @@ id: 1e47e332-de10-8086-b1d4-f4c264d072df
 title: Maximum Number of Robots within budget
 created_time: 2025-04-29T14:43:00.000Z
 last_edited_time: 2025-05-01T14:40:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: High
-number: 28
-june_interviews_prep: null
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:
   - Sliding Window

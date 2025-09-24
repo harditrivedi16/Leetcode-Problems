@@ -3,12 +3,11 @@ id: 1e47e332-de10-8095-bdde-da3b98aeafa0
 title: Evaluate Boolean Parenthesization
 created_time: 2025-04-29T17:24:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-29T00:00:00.000Z
 concept_involved:
   - Dynamic Programming

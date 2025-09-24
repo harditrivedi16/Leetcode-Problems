@@ -4,12 +4,11 @@ title: Employee Free Time
 created_time: 2025-04-22T18:21:00.000Z
 last_edited_time: 2025-05-01T15:43:00.000Z
 difficulty_level: Hard
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/employee-free-time/description/
 my_confidence_level: Meduim
-number: 91
-june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Intervals

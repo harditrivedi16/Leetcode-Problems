@@ -4,12 +4,11 @@ title: Maximum Subarray
 created_time: 2025-06-19T15:10:00.000Z
 last_edited_time: 2025-06-22T14:24:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: null
-june_interviews_prep: null
 last_solved: 2025-06-19T00:00:00.000Z
 concept_involved:
   - Greedy

@@ -4,12 +4,11 @@ title: Find Critical and Pseudo Critical Edges in a Minimum Spanning Tree
 created_time: 2025-04-20T16:03:00.000Z
 last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: Hard
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/find-cr...
 my_confidence_level: Low
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-20T00:00:00.000Z
 concept_involved:
   - Graphs

@@ -3,12 +3,11 @@ id: 1e27e332-de10-8001-bd4e-de27a516bf8a
 title: Minimum No of moves to make it a palindrome
 created_time: 2025-04-27T18:55:00.000Z
 last_edited_time: 2025-05-01T15:34:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Low
-number: 78
-june_interviews_prep: null
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
   - Two Pointers

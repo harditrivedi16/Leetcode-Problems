@@ -3,11 +3,10 @@ id: 1db7e332-de10-803b-9f52-c820d8b20bbf
 title: 'Course Schedule II '
 created_time: 2025-04-20T17:17:00.000Z
 last_edited_time: 2025-04-29T21:18:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
-number: null
-june_interviews_prep: null
 last_solved: 2025-04-20T00:00:00.000Z
 concept_involved:
   - Graphs

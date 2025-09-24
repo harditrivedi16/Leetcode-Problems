@@ -3,12 +3,11 @@ id: 1e27e332-de10-806c-842e-c67c535e71f8
 title: Find the Duplicate Number
 created_time: 2025-04-27T20:49:00.000Z
 last_edited_time: 2025-05-01T14:48:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 48
-june_interviews_prep: null
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
   - Linked List

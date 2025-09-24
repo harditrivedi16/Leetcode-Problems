@@ -3,12 +3,11 @@ id: 1e27e332-de10-8050-9514-c6c5ac2658cb
 title: Find Minimum in a rotated sorted array
 created_time: 2025-04-27T16:33:00.000Z
 last_edited_time: 2025-05-01T14:29:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 8
-june_interviews_prep: null
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
   - Binary Search

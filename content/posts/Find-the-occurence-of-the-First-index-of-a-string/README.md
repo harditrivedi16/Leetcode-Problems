@@ -3,12 +3,11 @@ id: 1e27e332-de10-8060-8525-ed2b6afc23fe
 title: Find the occurence of the First index of a string
 created_time: 2025-04-27T19:15:00.000Z
 last_edited_time: 2025-05-01T15:34:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: Meduim
-number: 79
-june_interviews_prep: null
 last_solved: 2025-04-27T00:00:00.000Z
 concept_involved:
   - Two Pointers

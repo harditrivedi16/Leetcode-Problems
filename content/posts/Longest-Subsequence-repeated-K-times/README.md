@@ -3,12 +3,11 @@ id: 1dd7e332-de10-8049-852e-f1dffc8fd874
 title: Longest Subsequence repeated K times
 created_time: 2025-04-22T16:58:00.000Z
 last_edited_time: 2025-04-29T21:19:00.000Z
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/
-number: null
-june_interviews_prep: null
 last_solved: null
 concept_involved:
   - Dynamic Programming

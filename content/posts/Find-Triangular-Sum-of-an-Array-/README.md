@@ -4,12 +4,11 @@ title: 'Find Triangular Sum of an Array '
 created_time: 2025-04-24T18:06:00.000Z
 last_edited_time: 2025-05-01T15:22:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/find-triangular-sum-of-an-array/
 my_confidence_level: High
-number: 68
-june_interviews_prep: null
 last_solved: 2025-04-24T00:00:00.000Z
 concept_involved:
   - Arrays
