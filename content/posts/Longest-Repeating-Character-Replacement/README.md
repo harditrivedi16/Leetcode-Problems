@@ -2,16 +2,15 @@
 id: 1757e332-de10-801a-93d0-df38f3b3fb73
 title: Longest Repeating Character Replacement
 created_time: 2025-01-08T18:03:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-05-01T14:40:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
 problem_link: >-
   https://leetcode.com/problems/longest-repeating-character-replacement/description/
 my_confidence_level: Meduim
-number: 45
-amazon_prep: 'No'
 last_solved: 2025-01-08T00:00:00.000Z
 concept_involved:
   - Sliding Window
@@ -53,6 +52,31 @@ class Solution:
 
         
 ```
+
+**Problem: Longest Repeating Character Replacement (LeetCode #424)**
+
+You are given a string `s` and an integer `k`.
+
+You can perform at most **k** character replacements in the string to make the longest substring with the same character.
+
+Return the **length of the longest substring** that can be obtained by performing at most `k` replacements.
+
+### Example:
+
+```plain text
+pgsql
+CopyEdit
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'B's with 'A's, so the longest substring is "AAAA" wi
+
+```
+
+*   **`most_common(1)`**: This gets the most common element in `frequencyMap`. The number `1` indicates that we only want the **top 1** most frequent character.
+
+*   `most_common(1)` returns a list of tuples, where each tuple is `(element, count)`—for example, `[('A', 5)]`.
+
+*   **`[0][1]`**: This extracts the **count** of the most common element. In the example `('A', 5)`, `[0]` gets the first tuple, and `[1]` gets the count `5`.
 
 Time Complexity: O(n)
 

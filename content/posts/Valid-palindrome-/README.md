@@ -2,8 +2,9 @@
 id: 1317e332-de10-81a0-8bcf-f7ef5ca6762d
 title: 'Valid palindrome '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:03:00.000Z
+last_edited_time: 2025-05-01T15:22:00.000Z
 difficulty_level: Easy
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top Interview Questions
@@ -11,8 +12,7 @@ leetcode_problem_list:
   - Blind 75
   - Top Facebook Questions
 problem_link: https://leetcode.com/problems/valid-palindrome/
-my_confidence_level: Meduim
-number: 4
+my_confidence_level: High
 last_solved: 2024-10-14T00:00:00.000Z
 concept_involved:
   - Strings

@@ -2,13 +2,13 @@
 id: 1da7e332-de10-8014-b4d1-c3e6612bcae0
 title: Rotting Oranges
 created_time: 2025-04-19T16:05:00.000Z
-last_edited_time: 2025-04-19T19:29:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/rotting-oranges/description/
-my_confidence_level: Low
-number: 78
+my_confidence_level: Meduim
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
   - Graphs

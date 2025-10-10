@@ -2,8 +2,9 @@
 id: 1317e332-de10-81bd-aaab-f85f8c9300c3
 title: Valid Anagram
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:03:00.000Z
+last_edited_time: 2025-09-24T14:37:00.000Z
 difficulty_level: Easy
+number: 15
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Blind 75
@@ -11,8 +12,7 @@ leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/valid-anagram/description/
 my_confidence_level: High
-number: 2
-last_solved: 2024-11-20T00:00:00.000Z
+last_solved: 2025-09-24T00:00:00.000Z
 concept_involved:
   - Strings
 companies_asked:

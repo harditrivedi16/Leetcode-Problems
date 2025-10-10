@@ -2,16 +2,16 @@
 id: 1bb7e332-de10-802f-9f00-fe6adf50dcd7
 title: Count Good Nodes in Binary Tree
 created_time: 2025-03-19T13:52:00.000Z
-last_edited_time: 2025-04-24T16:50:00.000Z
+last_edited_time: 2025-09-23T15:09:00.000Z
 difficulty_level: 'Meduim '
+number: 11
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 my_confidence_level: Meduim
-number: 64
-amazon_prep: 'No'
-last_solved: 2025-03-19T00:00:00.000Z
+last_solved: 2025-09-23T00:00:00.000Z
 concept_involved:
   - DFS
   - Binary Trees
@@ -52,5 +52,26 @@ class Solution:
                 
 ```
 
+### Problem Statement:
+
+Given a binary tree, a **good node** is defined as a node whose value is **greater than or equal to** all the values from the root to that node.
+
+Return the number of **good nodes** in the binary tree.
+
 Time Complexity: O(N)- since we go through each Node once
-Space Complexity: O(1)- we only make another variable that is res
+
+**2. Space complexity**
+
+There are **two kinds of space** to consider:
+
+*   **Auxiliary variables** (like `res` or `maxSoFar`). That’s O(1).
+
+*   **Recursion stack** from DFS. That depends on tree height `h`.
+
+*   Best case (balanced tree): recursion depth = O(log N).
+
+*   Worst case (skewed tree): recursion depth = O(N).
+
+So the **true space complexity** is:
+
+👉 **O(h)** = O(log N) average, O(N) worst case.

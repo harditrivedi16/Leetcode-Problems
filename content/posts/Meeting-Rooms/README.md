@@ -2,8 +2,9 @@
 id: 14b7e332-de10-806d-a8f3-d55581def06d
 title: Meeting Rooms
 created_time: 2024-11-27T22:36:00.000Z
-last_edited_time: 2025-04-15T16:05:00.000Z
+last_edited_time: 2025-06-09T18:30:00.000Z
 difficulty_level: Easy
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Leetcode Curated Algorithms
@@ -11,7 +12,6 @@ leetcode_problem_list:
   - Blind 75
 problem_link: https://leetcode.com/problems/meeting-rooms/description/
 my_confidence_level: High
-number: 33
 last_solved: 2024-11-28T00:00:00.000Z
 concept_involved:
   - Intervals
@@ -33,6 +33,29 @@ class Solution:
                 return False
         return True
         
+```
+
+**Java Code:**
+
+```java
+import java.util.*;
+
+class Solution {
+    public boolean canAttendMeetings(int[][] intervals) {
+        if (intervals.length == 0) return true;
+
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+
+        for (int i = 1; i < intervals.length; i++) {
+            if (intervals[i][0] < intervals[i - 1][1]) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
+
 ```
 
 Time Complexity: O(n) as it goes through each element of the list

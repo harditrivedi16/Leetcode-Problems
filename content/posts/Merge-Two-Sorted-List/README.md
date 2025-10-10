@@ -2,8 +2,9 @@
 id: 1437e332-de10-8094-a563-caeacb85331c
 title: Merge Two Sorted List
 created_time: 2024-11-19T19:40:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: Easy
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Blind 75
@@ -12,7 +13,6 @@ leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/merge-two-sorted-lists/description/
 my_confidence_level: High
-number: 26
 last_solved: 2025-03-20T00:00:00.000Z
 concept_involved:
   - Linked List

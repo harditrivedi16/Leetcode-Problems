@@ -2,8 +2,9 @@
 id: 14f7e332-de10-8088-9855-cc0bbaef6e95
 title: Longest Substring without repeating characters
 created_time: 2024-12-01T18:11:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-05-01T14:40:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
@@ -11,8 +12,6 @@ leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 my_confidence_level: Meduim
-number: 44
-amazon_prep: 'No'
 last_solved: 2025-01-08T00:00:00.000Z
 concept_involved:
   - Sliding Window
@@ -52,6 +51,24 @@ class Solution:
         return result
         
 ```
+
+**Problem: Longest Substring Without Repeating Characters**
+
+Given a string `s`, find the length of the **longest substring** without repeating characters.
+
+### Example:
+
+```plain text
+vbnet
+CopyEdit
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with length 3.
+
+
+```
+
+### Constraints:
 
 Time Complexity = O(n)
 

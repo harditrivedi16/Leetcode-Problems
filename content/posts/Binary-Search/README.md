@@ -2,19 +2,19 @@
 id: 1447e332-de10-80e5-a943-f93659678b87
 title: Binary Search
 created_time: 2024-11-20T00:49:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-05-01T14:29:00.000Z
 difficulty_level: Easy
 remarks: |-
   remember: 
   (1) while start ≤ end and not start < end
   (2) mid = (start + end) // 2; // is for floor division
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/binary-search/
 my_confidence_level: High
-number: 32
 last_solved: 2025-03-20T00:00:00.000Z
 concept_involved:
   - Binary Search

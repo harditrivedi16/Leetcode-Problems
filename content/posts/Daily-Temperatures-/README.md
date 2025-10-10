@@ -2,16 +2,16 @@
 id: 1317e332-de10-81e1-bde3-c14928a129de
 title: 'Daily Temperatures '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-05-01T14:42:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/daily-temperatures/description/
-my_confidence_level: Meduim
-number: 20
-last_solved: 2024-10-11T00:00:00.000Z
+my_confidence_level: High
+last_solved: 2025-04-26T00:00:00.000Z
 concept_involved:
   - Stack
 companies_asked:
@@ -52,3 +52,17 @@ class Solution:
 **Time Complexity**: O(n), where n is the number of temperatures.
 
 **Space Complexity**: O(n) for the stack and result list.
+
+### **Variations and Edge Cases**:
+
+*   **Edge Case: All temperatures are the same.**
+
+    *   For example, `T = [70, 70, 70, 70]`. Since there are no warmer days, the result should be `[0, 0, 0, 0]`.
+
+*   **Edge Case: No warmer days.**
+
+    *   If the temperatures are in decreasing order, like `T = [76, 75, 74, 73]`, the result will be `[0, 0, 0, 0]`.
+
+*   **Variation: Return the temperature itself instead of the number of days to wait.**
+
+    *   Instead of storing `res[i] = stack[-1][0] - i`, you can store `res[i] = temperatures[stack[-1][0]]` to get the actual temperature on the next warmer day.

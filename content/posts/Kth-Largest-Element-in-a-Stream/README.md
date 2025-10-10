@@ -2,15 +2,14 @@
 id: 14c7e332-de10-8071-b1bb-ca9d44d23290
 title: Kth Largest Element in a Stream
 created_time: 2024-11-28T22:10:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-05-01T15:43:00.000Z
 difficulty_level: Easy
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
 my_confidence_level: Meduim
-number: 34
-amazon_prep: 'No'
 last_solved: 2025-04-14T00:00:00.000Z
 concept_involved:
   - heaps

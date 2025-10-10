@@ -2,17 +2,18 @@
 id: 1c07e332-de10-80e0-a6b1-dd3d1e381287
 title: Binary Tree Right Side View
 created_time: 2025-03-24T15:13:00.000Z
-last_edited_time: 2025-04-15T16:06:00.000Z
+last_edited_time: 2025-09-23T15:25:00.000Z
 difficulty_level: 'Meduim '
+number: 5
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
   - Top 100 Liked Questions
   - Top Facebook Questions
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/binary-tree-right-side-view/description/
 my_confidence_level: High
-number: 71
-last_solved: 2025-03-24T00:00:00.000Z
+last_solved: 2025-09-23T00:00:00.000Z
 concept_involved:
   - Binary Trees
   - BFS
@@ -50,5 +51,11 @@ class Solution:
         return res
 ```
 
+### Problem Statement:
+
+Given the root of a binary tree, imagine you are standing on the **right side** of it, and you need to return the values of the nodes you can see from that perspective.
+
+Return **a list of values** representing the **right side view** of the tree.
+
 Time Complexity: O(n)
-Space Complexity: O(n/2) at any level max there will be n/2 elements and queue is only filled level by level.
+Space Complexity: O(n/2) at any level max there will be n/2 elements and queue is only filled level by level. unless the tree is skeweed in that case n

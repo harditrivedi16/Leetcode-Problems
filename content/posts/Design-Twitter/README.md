@@ -2,14 +2,14 @@
 id: 1d57e332-de10-8009-ac14-ecfe845727cd
 title: Design Twitter
 created_time: 2025-04-14T18:55:00.000Z
-last_edited_time: 2025-04-15T15:59:00.000Z
+last_edited_time: 2025-04-29T21:19:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/design-twitter/description/
 my_confidence_level: Low
-number: 75
 last_solved: 2025-04-14T00:00:00.000Z
 concept_involved:
   - HashSet

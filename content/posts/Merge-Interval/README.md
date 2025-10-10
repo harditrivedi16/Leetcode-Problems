@@ -2,8 +2,9 @@
 id: 1317e332-de10-8151-bcb5-d62fba038de7
 title: Merge Interval
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-06-09T18:04:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
@@ -13,7 +14,6 @@ leetcode_problem_list:
   - Blind 75
 problem_link: https://leetcode.com/problems/merge-intervals/description/
 my_confidence_level: Meduim
-number: 17
 last_solved: 2024-11-27T00:00:00.000Z
 concept_involved:
   - Intervals
@@ -31,6 +31,8 @@ problem_name: Merge Interval
 
 ---
 
+**Python Code:**
+
 ```python
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
@@ -44,6 +46,36 @@ class Solution:
             else: 
                 res.append(intervals[i])
         return res
+```
+
+**Java Code:**
+
+```java
+import java.util.*;
+
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        if (intervals.length <= 1) return intervals;
+
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+
+        List<int[]> res = new ArrayList<>();
+        int[] current = intervals[0];
+
+        for (int i = 1; i < intervals.length; i++) {
+            if (current[1] >= intervals[i][0]) {
+                current[1] = Math.max(current[1], intervals[i][1]);
+            } else {
+                res.add(current);
+                current = intervals[i];
+            }
+        }
+
+        res.add(current);
+        return res.toArray(new int[res.size()][]);
+    }
+}
+
 ```
 
 This solution merges overlapping intervals by sorting them based on their start times and then merging any consecutive intervals that overlap.

@@ -2,8 +2,9 @@
 id: 1317e332-de10-819c-b42c-fac22fd7f7f2
 title: 'Group Anagrams   '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:03:00.000Z
+last_edited_time: 2025-09-24T14:56:00.000Z
 difficulty_level: 'Meduim '
+number: 18
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
@@ -12,9 +13,8 @@ leetcode_problem_list:
   - Top Amazon Questions
   - Blind 75
 problem_link: https://leetcode.com/problems/group-anagrams/description/
-my_confidence_level: Meduim
-number: 6
-last_solved: 2024-04-21T00:00:00.000Z
+my_confidence_level: High
+last_solved: 2025-09-24T00:00:00.000Z
 concept_involved:
   - Strings
   - HashTables
@@ -71,9 +71,11 @@ class Solution:
 
             ans[t].append(s)
 
-        return ans.values()
+        return list(ans.values())
 ```
 
 *   Time Complexity: O(NK)O(NK)*O*(*NK*), where NN\_N\_ is the length of `strs`, and KK\_K\_ is the maximum length of a string in `strs`. Counting each string is linear in the size of the string, and we count every string.
 
 *   Space Complexity: O(NK)O(NK)*O*(*NK*), the total information content stored in `ans`.
+
+any dic.values prints it at dict objects, and it is specifically written to return as list, we should return list(dict.values)

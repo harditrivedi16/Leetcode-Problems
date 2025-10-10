@@ -2,15 +2,14 @@
 id: 1767e332-de10-804e-8376-e1140c38be5f
 title: Surrounded Regions
 created_time: 2025-01-09T01:16:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/surrounded-regions/description/
 my_confidence_level: Meduim
-number: 51
-amazon_prep: 'No'
 last_solved: 2025-01-16T00:00:00.000Z
 concept_involved:
   - BFS
@@ -23,6 +22,12 @@ companies_asked:
 problem_name: Surrounded Regions
 
 ---
+
+### Problem Statement:
+
+Given an `m x n` board containing `'X'` and `'O'`, capture all regions surrounded by `'X'`.
+
+A region is captured by flipping all `'O'`s into `'X'`s in that surrounded region.
 
 ```python
 from collections import deque

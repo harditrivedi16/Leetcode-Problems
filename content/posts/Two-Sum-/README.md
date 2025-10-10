@@ -2,8 +2,9 @@
 id: 1317e332-de10-81c9-9f0a-ce121140e80c
 title: 'Two Sum '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:03:00.000Z
+last_edited_time: 2025-09-24T14:39:00.000Z
 difficulty_level: Easy
+number: 16
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
@@ -12,8 +13,7 @@ leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/two-sum/description/
 my_confidence_level: High
-number: 3
-last_solved: 2024-12-01T00:00:00.000Z
+last_solved: 2025-09-24T00:00:00.000Z
 concept_involved:
   - Arrays
   - HashTables

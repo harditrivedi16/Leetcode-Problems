@@ -2,8 +2,9 @@
 id: 14f7e332-de10-80e6-b279-f183d95ea8b5
 title: LRU cache
 created_time: 2024-12-01T18:11:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
@@ -13,8 +14,6 @@ leetcode_problem_list:
   - Top Microsoft Questions
 problem_link: https://leetcode.com/problems/lru-cache/description/
 my_confidence_level: Low
-number: 37
-amazon_prep: 'No'
 last_solved: 2024-12-01T00:00:00.000Z
 concept_involved:
   - Linked List

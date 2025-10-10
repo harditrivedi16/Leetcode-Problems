@@ -2,11 +2,12 @@
 id: 1317e332-de10-819d-aba5-daa2421730e2
 title: 'Top K frequent Elements '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-09-24T15:48:00.000Z
 difficulty_level: 'Meduim '
 remarks: |-
   - got the logic in head, 
   - could not convert the logic into code
+number: 25
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
@@ -14,9 +15,8 @@ leetcode_problem_list:
   - Top Interview Questions
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/top-k-frequent-elements/
-my_confidence_level: Meduim
-number: 11
-last_solved: 2025-03-06T00:00:00.000Z
+my_confidence_level: High
+last_solved: 2025-09-24T00:00:00.000Z
 concept_involved:
   - Arrays
   - HashTables

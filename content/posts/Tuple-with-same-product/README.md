@@ -2,14 +2,13 @@
 id: 1907e332-de10-8085-9bc8-d343a634c57f
 title: Tuple with same product
 created_time: 2025-02-04T16:55:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-05-01T15:21:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/tuple-with-same-product/description/
 my_confidence_level: Meduim
-number: 61
-amazon_prep: 'No'
 last_solved: 2025-02-05T00:00:00.000Z
 concept_involved:
   - HashTables

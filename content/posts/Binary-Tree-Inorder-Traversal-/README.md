@@ -2,22 +2,24 @@
 id: 1317e332-de10-8107-af60-f4e06669ea05
 title: 'Binary Tree Inorder Traversal '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-09-23T15:24:00.000Z
 difficulty_level: Easy
+number: 1
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
   - Top Interview Questions
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/binary-tree-inorder-traversal/
 my_confidence_level: Meduim
-number: 23
-last_solved: 2025-03-19T00:00:00.000Z
+last_solved: 2025-09-23T00:00:00.000Z
 concept_involved:
   - Binary Trees
   - DFS
 companies_asked:
-  - Google
   - Facebook/Meta
+  - Amazon
+  - Microsoft
 problem_name: 'Binary Tree Inorder Traversal '
 
 ---

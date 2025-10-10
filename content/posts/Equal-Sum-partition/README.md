@@ -2,16 +2,15 @@
 id: 1ae7e332-de10-8031-9ad6-f2d709e63382
 title: Equal Sum partition
 created_time: 2025-03-06T23:11:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-04-29T21:19:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
   - Top 100 Liked Questions
 problem_link: https://leetcode.com/problems/partition-equal-subset-sum/
 my_confidence_level: Meduim
-number: 62
-amazon_prep: 'No'
 last_solved: 2025-03-06T00:00:00.000Z
 concept_involved:
   - Dynamic Programming

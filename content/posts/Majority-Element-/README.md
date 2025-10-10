@@ -2,16 +2,17 @@
 id: 1317e332-de10-8133-a4b2-f9baa815dc04
 title: 'Majority Element '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:03:00.000Z
+last_edited_time: 2025-09-24T15:08:00.000Z
 difficulty_level: Easy
+number: 20
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
   - Top Interview Questions
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/majority-element/description/
 my_confidence_level: High
-number: 10
-last_solved: 2024-12-01T00:00:00.000Z
+last_solved: 2025-09-24T00:00:00.000Z
 concept_involved:
   - Arrays
   - HashTables

@@ -2,13 +2,13 @@
 id: 1d57e332-de10-8068-8102-c8ddbcb7e6f3
 title: '01 Matrix '
 created_time: 2025-04-14T20:02:00.000Z
-last_edited_time: 2025-04-19T16:05:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/01-matrix/description/
 my_confidence_level: Meduim
-number: 77
 last_solved: 2025-04-19T00:00:00.000Z
 concept_involved:
   - Graphs

@@ -2,15 +2,15 @@
 id: 1317e332-de10-814d-a1a3-f9d15bd18530
 title: 'Valid Sudoku '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-05-01T15:22:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/valid-sudoku/description/
-my_confidence_level: Meduim
-number: 15
+my_confidence_level: High
 last_solved: 2024-10-03T00:00:00.000Z
 concept_involved:
   - Arrays
@@ -69,3 +69,6 @@ This line explains that if the current number is already present in the correspo
 
 **Time Complexity**: O(1), since the board size is fixed at 9x9, making the number of operations constant.
 **Space Complexity**: O(1), as the space used for rows, columns, and squares is bounded by the fixed size of the board.
+
+Any edge cases that this approach saves?
+Since you've handled empty cells (represented by `.`) by skipping them, you're correctly allowing for incomplete boards without running into errors.

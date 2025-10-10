@@ -2,8 +2,9 @@
 id: 1317e332-de10-81fd-ac0d-e6c8432dd6c3
 title: 'Search in rotated sorted array I '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-09-23T14:40:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
@@ -11,7 +12,6 @@ leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/search-in-rotated-sorted-array/
 my_confidence_level: Meduim
-number: 28
 last_solved: 2024-11-19T00:00:00.000Z
 concept_involved:
   - Binary Search

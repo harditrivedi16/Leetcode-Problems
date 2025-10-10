@@ -2,14 +2,15 @@
 id: 1317e332-de10-81c4-8f12-f4f4bfa4e4a7
 title: 'Binary Post Order Traversal '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-09-23T15:24:00.000Z
 difficulty_level: Easy
+number: 3
 commit_to_git_hub: 'Yes'
-leetcode_problem_list: []
+leetcode_problem_list:
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/binary-tree-postorder-traversal/
 my_confidence_level: Meduim
-number: 25
-last_solved: 2025-03-19T00:00:00.000Z
+last_solved: 2025-09-23T00:00:00.000Z
 concept_involved:
   - Binary Trees
   - DFS

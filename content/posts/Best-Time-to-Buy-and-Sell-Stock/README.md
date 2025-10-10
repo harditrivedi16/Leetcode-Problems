@@ -2,8 +2,9 @@
 id: 1757e332-de10-803c-a8e1-ed7786900dec
 title: Best Time to Buy and Sell Stock
 created_time: 2025-01-08T23:19:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-05-01T14:40:00.000Z
 difficulty_level: Easy
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
@@ -11,8 +12,6 @@ leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 my_confidence_level: Low
-number: 48
-amazon_prep: 'No'
 last_solved: 2025-01-08T00:00:00.000Z
 concept_involved:
   - Sliding Window
@@ -54,6 +53,12 @@ class Solution:
         return maxProfit 
 
 ```
+
+**Best Time to Buy and Sell Stock**:
+
+Given an array of prices where prices\[i] is the stock price on dayi
+
+, find the maximum profit you can achieve from a single buy and a single sell (you must buy before you sell). Return 0 if no profit is possible.
 
 Time Complexity: O(n)
 

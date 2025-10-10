@@ -2,15 +2,14 @@
 id: 1717e332-de10-80ab-97c1-e7871b19206e
 title: Maximum Size Subarray Sum Equals k
 created_time: 2025-01-04T02:36:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-05-01T14:40:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Leetcode Curated Algorithms
 problem_link: https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 my_confidence_level: Low
-number: 43
-amazon_prep: 'No'
 last_solved: 2025-01-03T00:00:00.000Z
 concept_involved:
   - Sliding Window

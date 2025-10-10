@@ -2,14 +2,13 @@
 id: 17e7e332-de10-8034-8105-d43b0d3c96cd
 title: Longest Increasing Path in a Matrix
 created_time: 2025-01-17T20:22:00.000Z
-last_edited_time: 2025-04-24T16:49:00.000Z
+last_edited_time: 2025-04-29T21:18:00.000Z
 difficulty_level: Hard
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 my_confidence_level: Meduim
-number: 55
-amazon_prep: 'No'
 last_solved: 2025-01-17T00:00:00.000Z
 concept_involved:
   - DFS

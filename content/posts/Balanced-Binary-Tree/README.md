@@ -2,18 +2,25 @@
 id: 1da7e332-de10-80af-9bb2-e2e1fe94d6f0
 title: Balanced Binary Tree
 created_time: 2025-04-19T19:31:00.000Z
-last_edited_time: 2025-05-01T15:49:00.000Z
+last_edited_time: 2025-09-23T15:27:00.000Z
 difficulty_level: Easy
+number: 8
 commit_to_git_hub: 'Yes'
-leetcode_problem_list: []
+leetcode_problem_list:
+  - Neetcode - 150
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/balanced-binary-tree/description/
 my_confidence_level: Meduim
-number: 101
-june_interviews_prep: null
-last_solved: 2025-04-19T00:00:00.000Z
+last_solved: 2025-09-23T00:00:00.000Z
 concept_involved:
   - Binary Trees
-companies_asked: []
+companies_asked:
+  - Amazon
+  - Microsoft
+  - Google
+  - Facebook/Meta
+  - Bloomberg
+  - Visa
 problem_name: Balanced Binary Tree
 
 ---

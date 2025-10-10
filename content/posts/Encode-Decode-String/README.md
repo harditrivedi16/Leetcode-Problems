@@ -2,18 +2,18 @@
 id: 1317e332-de10-8157-bd74-ce77d141ffd0
 title: Encode Decode String
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-09-24T15:49:00.000Z
 difficulty_level: 'Meduim '
 remarks: got the logic almost right, could not write the code still!
+number: 26
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Leetcode Curated Algorithms
   - Neetcode - 150
   - Blind 75
 problem_link: https://leetcode.com/problems/encode-and-decode-strings/description/
-my_confidence_level: Meduim
-number: 13
-last_solved: 2025-03-06T00:00:00.000Z
+my_confidence_level: High
+last_solved: 2025-09-24T00:00:00.000Z
 concept_involved:
   - Arrays
   - Strings

@@ -2,14 +2,15 @@
 id: 1317e332-de10-8134-b661-d007c43ba22b
 title: 'Binary Pre Order Traversal '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-09-23T15:24:00.000Z
 difficulty_level: Easy
+number: 2
 commit_to_git_hub: 'Yes'
-leetcode_problem_list: []
+leetcode_problem_list:
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/binary-tree-preorder-traversal/
 my_confidence_level: Meduim
-number: 24
-last_solved: 2025-03-19T00:00:00.000Z
+last_solved: 2025-09-23T00:00:00.000Z
 concept_involved:
   - Binary Trees
   - DFS
@@ -59,6 +60,17 @@ class Solution:
 
         
 ```
+
+### **Problem Statement: Pre-order Traversal of a Binary Tree**
+
+**Problem:**
+Given a binary tree, return the pre-order traversal of its nodes' values. The pre-order traversal is defined as:
+
+*   Visit the root node.
+
+*   Traverse the left subtree.
+
+*   Traverse the right subtree.
 
 **Time Complexity** (both recursive and iterative): O(n)O(n)O(n), where nnn is the number of nodes in the tree, as each node is visited exactly once.
 

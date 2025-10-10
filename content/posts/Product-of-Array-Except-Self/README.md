@@ -2,12 +2,13 @@
 id: 1317e332-de10-81e3-b080-e8469de5ef62
 title: Product of Array Except Self
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-05-01T15:22:00.000Z
 difficulty_level: 'Meduim '
 remarks: |-
   Got the logic, 
   could also write code from logic
   logical errors in code
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
@@ -15,8 +16,7 @@ leetcode_problem_list:
   - Blind 75
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/product-of-array-except-self/description/
-my_confidence_level: Meduim
-number: 12
+my_confidence_level: High
 last_solved: 2025-03-06T00:00:00.000Z
 concept_involved:
   - Arrays

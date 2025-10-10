@@ -2,8 +2,9 @@
 id: 1317e332-de10-81c2-bef7-d084cc5d4619
 title: 'Reverse a Linked List '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:03:00.000Z
+last_edited_time: 2025-05-01T14:48:00.000Z
 difficulty_level: Easy
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
@@ -12,7 +13,6 @@ leetcode_problem_list:
   - Blind 75
 problem_link: https://leetcode.com/problems/reverse-linked-list/description/
 my_confidence_level: Meduim
-number: 9
 last_solved: 2024-11-19T00:00:00.000Z
 concept_involved:
   - Linked List

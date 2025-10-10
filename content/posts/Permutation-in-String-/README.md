@@ -2,15 +2,15 @@
 id: 1317e332-de10-8165-b11a-d6b1f5688aad
 title: 'Permutation in String '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-15T16:04:00.000Z
+last_edited_time: 2025-05-01T15:22:00.000Z
 difficulty_level: 'Meduim '
+number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Top 100 Liked Questions
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/permutation-in-string/
 my_confidence_level: Meduim
-number: 22
 last_solved: 2025-01-03T00:00:00.000Z
 concept_involved:
   - Strings

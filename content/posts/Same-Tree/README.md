@@ -2,18 +2,24 @@
 id: 1da7e332-de10-809b-a8ca-e187fe4bf0ca
 title: Same Tree
 created_time: 2025-04-19T19:31:00.000Z
-last_edited_time: 2025-05-01T15:49:00.000Z
+last_edited_time: 2025-09-23T15:28:00.000Z
 difficulty_level: Easy
+number: 9
 commit_to_git_hub: 'Yes'
-leetcode_problem_list: []
+leetcode_problem_list:
+  - Neetcode - 150
+  - Neetcode 250
 problem_link: https://leetcode.com/problems/same-tree/
 my_confidence_level: High
-number: 99
-june_interviews_prep: null
-last_solved: 2025-04-19T00:00:00.000Z
+last_solved: 2025-09-23T00:00:00.000Z
 concept_involved:
   - Binary Trees
-companies_asked: []
+companies_asked:
+  - Amazon
+  - Google
+  - Microsoft
+  - Bloomberg
+  - Facebook/Meta
 problem_name: Same Tree
 
 ---
