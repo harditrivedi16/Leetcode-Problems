@@ -2,7 +2,7 @@
 id: 1447e332-de10-80e5-a943-f93659678b87
 title: Binary Search
 created_time: 2024-11-20T00:49:00.000Z
-last_edited_time: 2025-05-01T14:29:00.000Z
+last_edited_time: 2025-10-15T18:11:00.000Z
 difficulty_level: Easy
 remarks: |-
   remember: 
@@ -15,7 +15,7 @@ leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/binary-search/
 my_confidence_level: High
-last_solved: 2025-03-20T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Binary Search
   - Arrays

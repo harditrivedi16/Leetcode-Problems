@@ -2,14 +2,14 @@
 id: 1907e332-de10-802c-9b55-f182d2fa031e
 title: Maximum Ascending Subarray Sum
 created_time: 2025-02-04T16:50:00.000Z
-last_edited_time: 2025-05-01T15:22:00.000Z
+last_edited_time: 2025-10-15T18:10:00.000Z
 difficulty_level: Easy
 number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/maximum-ascending-subarray-sum/
 my_confidence_level: Meduim
-last_solved: 2025-02-04T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Arrays
   - PrefixSum

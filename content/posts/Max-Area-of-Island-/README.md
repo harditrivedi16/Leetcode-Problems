@@ -2,14 +2,14 @@
 id: 1767e332-de10-805b-971e-d265a252a9b4
 title: 'Max Area of Island '
 created_time: 2025-01-09T01:16:00.000Z
-last_edited_time: 2025-04-29T21:18:00.000Z
+last_edited_time: 2025-10-15T18:10:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/max-area-of-island/submissions/1511013650/
 my_confidence_level: Meduim
-last_solved: 2025-01-16T00:00:00.000Z
+last_solved: null
 concept_involved:
   - BFS
   - DFS

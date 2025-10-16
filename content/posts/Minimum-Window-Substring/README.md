@@ -2,7 +2,7 @@
 id: 1757e332-de10-80cb-80b4-d04f5a64cef0
 title: Minimum Window Substring
 created_time: 2025-01-08T18:03:00.000Z
-last_edited_time: 2025-05-01T14:40:00.000Z
+last_edited_time: 2025-10-15T18:10:00.000Z
 difficulty_level: Hard
 number: null
 commit_to_git_hub: 'Yes'
@@ -13,7 +13,7 @@ leetcode_problem_list:
   - Top Microsoft Questions
 problem_link: https://leetcode.com/problems/minimum-window-substring/description/
 my_confidence_level: Meduim
-last_solved: 2025-01-08T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Sliding Window
   - Strings

@@ -2,14 +2,14 @@
 id: 1757e332-de10-803c-85d3-c57fe913714f
 title: Fruits in Basket/Pick Toys
 created_time: 2025-01-08T18:03:00.000Z
-last_edited_time: 2025-05-01T14:40:00.000Z
+last_edited_time: 2025-10-15T18:10:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/fruit-into-baskets/description/
 my_confidence_level: Meduim
-last_solved: 2025-01-08T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Sliding Window
 companies_asked:

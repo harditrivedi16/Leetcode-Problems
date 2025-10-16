@@ -2,7 +2,7 @@
 id: 1447e332-de10-8002-8350-fc7fa6767cc0
 title: Find the minimum in a rotated sorted array I
 created_time: 2024-11-20T00:30:00.000Z
-last_edited_time: 2025-09-23T14:40:00.000Z
+last_edited_time: 2025-10-15T18:10:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
@@ -11,7 +11,7 @@ leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 my_confidence_level: Meduim
-last_solved: 2024-11-19T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Binary Search
   - Arrays

@@ -2,7 +2,7 @@
 id: 1317e332-de10-8165-b11a-d6b1f5688aad
 title: 'Permutation in String '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-05-01T15:22:00.000Z
+last_edited_time: 2025-10-15T18:10:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
@@ -11,7 +11,7 @@ leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/permutation-in-string/
 my_confidence_level: Meduim
-last_solved: 2025-01-03T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Strings
   - Sliding Window

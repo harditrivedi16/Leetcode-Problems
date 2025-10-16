@@ -2,7 +2,7 @@
 id: 1c07e332-de10-80e0-a971-e68169a465cf
 title: Binary Tree Zig-Zag Level Order Traversal
 created_time: 2025-03-24T14:47:00.000Z
-last_edited_time: 2025-05-01T15:44:00.000Z
+last_edited_time: 2025-10-15T18:11:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
@@ -13,7 +13,7 @@ leetcode_problem_list:
 problem_link: >-
   https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
 my_confidence_level: Meduim
-last_solved: 2025-03-24T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Binary Trees
   - BFS

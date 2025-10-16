@@ -2,7 +2,7 @@
 id: 14d7e332-de10-8064-b0a9-d975bbd0932b
 title: Kth Largest Element in an Array
 created_time: 2024-11-29T17:50:00.000Z
-last_edited_time: 2025-05-01T15:43:00.000Z
+last_edited_time: 2025-10-15T18:11:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
@@ -13,7 +13,7 @@ leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 my_confidence_level: High
-last_solved: 2025-04-14T00:00:00.000Z
+last_solved: null
 concept_involved:
   - heaps
 companies_asked:

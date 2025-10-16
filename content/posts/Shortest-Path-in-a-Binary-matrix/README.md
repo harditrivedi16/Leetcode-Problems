@@ -2,14 +2,14 @@
 id: 1da7e332-de10-80fd-8153-d4f8dccfc425
 title: Shortest Path in a Binary matrix
 created_time: 2025-04-19T16:06:00.000Z
-last_edited_time: 2025-06-22T18:11:00.000Z
+last_edited_time: 2025-10-15T18:13:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
 my_confidence_level: Low
-last_solved: 2025-04-19T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Graphs
 companies_asked: []

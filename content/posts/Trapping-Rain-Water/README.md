@@ -2,13 +2,13 @@
 id: 1317e332-de10-81e2-9ee2-d7f0c95763e1
 title: Trapping Rain Water
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-04-29T21:19:00.000Z
+last_edited_time: 2025-10-15T18:13:00.000Z
 number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: null
 my_confidence_level: High
-last_solved: 2025-04-26T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Stacks
 companies_asked: []

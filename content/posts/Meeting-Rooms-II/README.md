@@ -2,9 +2,9 @@
 id: 18e7e332-de10-8044-8cf9-dada86b71f87
 title: Meeting Rooms II
 created_time: 2025-02-02T19:12:00.000Z
-last_edited_time: 2025-06-09T18:39:00.000Z
+last_edited_time: 2025-10-15T18:14:00.000Z
 difficulty_level: 'Meduim '
-number: null
+number: 31
 commit_to_git_hub: 'Yes'
 leetcode_problem_list:
   - Neetcode - 150
@@ -15,7 +15,7 @@ leetcode_problem_list:
   - Top Microsoft Questions
 problem_link: https://leetcode.com/problems/meeting-rooms-ii/
 my_confidence_level: Meduim
-last_solved: 2025-02-02T00:00:00.000Z
+last_solved: 2025-10-15T00:00:00.000Z
 concept_involved:
   - Intervals
 companies_asked:
@@ -52,44 +52,6 @@ class Solution:
                 count -= 1
             res = max(res, count)
         return res
-```
-
-**Java code:**
-
-```java
-import java.util.*;
-
-class Solution {
-    public int minMeetingRooms(int[][] intervals) {
-        int n = intervals.length;
-        int[] start = new int[n];
-        int[] end = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            start[i] = intervals[i][0];
-            end[i] = intervals[i][1];
-        }
-
-        Arrays.sort(start);
-        Arrays.sort(end);
-
-        int s = 0, e = 0, count = 0, res = 0;
-
-        while (s < n) {
-            if (start[s] < end[e]) {
-                s++;
-                count++;
-            } else {
-                e++;
-                count--;
-            }
-            res = Math.max(res, count);
-        }
-
-        return res;
-    }
-}
-
 ```
 
 # **Time & Space Complexity**

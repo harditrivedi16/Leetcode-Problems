@@ -2,7 +2,7 @@
 id: 1d57e332-de10-805e-90d1-d0cb6756b92d
 title: Last Stone Weight
 created_time: 2025-04-14T17:50:00.000Z
-last_edited_time: 2025-05-01T15:43:00.000Z
+last_edited_time: 2025-10-15T18:11:00.000Z
 difficulty_level: Easy
 number: null
 commit_to_git_hub: 'Yes'
@@ -10,7 +10,7 @@ leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/last-stone-weight/
 my_confidence_level: Meduim
-last_solved: 2025-04-14T00:00:00.000Z
+last_solved: null
 concept_involved:
   - heaps
 companies_asked:

@@ -2,7 +2,7 @@
 id: 1bc7e332-de10-8070-a3e4-ddd31b9a2556
 title: Longest Common Subsequence
 created_time: 2025-03-20T16:25:00.000Z
-last_edited_time: 2025-04-29T21:19:00.000Z
+last_edited_time: 2025-10-15T18:11:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
@@ -12,7 +12,7 @@ leetcode_problem_list:
   - Top Interview Questions
 problem_link: https://leetcode.com/problems/longest-common-subsequence/description/
 my_confidence_level: Meduim
-last_solved: 2025-03-20T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Dynamic Programming
 companies_asked:

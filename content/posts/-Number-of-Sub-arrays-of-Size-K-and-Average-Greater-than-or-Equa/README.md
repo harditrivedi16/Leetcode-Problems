@@ -2,7 +2,7 @@
 id: 1707e332-de10-8016-859c-df2bd463866a
 title: "\_Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
 created_time: 2025-01-03T18:53:00.000Z
-last_edited_time: 2025-05-01T14:40:00.000Z
+last_edited_time: 2025-10-15T18:10:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
@@ -10,7 +10,7 @@ leetcode_problem_list: []
 problem_link: >-
   https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 my_confidence_level: High
-last_solved: 2025-01-03T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Sliding Window
 companies_asked:

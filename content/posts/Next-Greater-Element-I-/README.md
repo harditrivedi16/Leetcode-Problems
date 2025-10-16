@@ -2,14 +2,14 @@
 id: 1317e332-de10-8187-a76f-cd1b8e09f88b
 title: 'Next Greater Element I '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-05-01T14:42:00.000Z
+last_edited_time: 2025-10-15T18:09:00.000Z
 difficulty_level: Easy
 number: null
 commit_to_git_hub: 'Yes'
 leetcode_problem_list: []
 problem_link: https://leetcode.com/problems/next-greater-element-i/description/
 my_confidence_level: Meduim
-last_solved: 2024-10-11T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Stack
   - HashTables

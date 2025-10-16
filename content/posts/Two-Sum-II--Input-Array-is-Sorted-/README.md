@@ -2,7 +2,7 @@
 id: 1317e332-de10-8117-8607-c7019865baf3
 title: 'Two Sum II: Input Array is Sorted '
 created_time: 2024-11-01T16:01:00.000Z
-last_edited_time: 2025-05-01T15:22:00.000Z
+last_edited_time: 2025-10-15T18:11:00.000Z
 difficulty_level: 'Meduim '
 number: null
 commit_to_git_hub: 'Yes'
@@ -10,7 +10,7 @@ leetcode_problem_list:
   - Neetcode - 150
 problem_link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 my_confidence_level: High
-last_solved: 2025-03-20T00:00:00.000Z
+last_solved: null
 concept_involved:
   - Arrays
   - Two Pointers
